@@ -1,3 +1,5 @@
+import Init.Data.Nat.Basic
+
 #eval "Hello, world!"
 
 def m : Nat := 1
