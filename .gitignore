@@ -1,2 +1,4 @@
 result
 .lean-toolchain
+lake-packages
+build
